@@ -1,0 +1,14 @@
+C:\Users\rysya\Desktop\Dapper_12.06_W\Dapper_12.06_W\bin\Debug\net8.0\Dapper_12.06_W.exe
+C:\Users\rysya\Desktop\Dapper_12.06_W\Dapper_12.06_W\bin\Debug\net8.0\Dapper_12.06_W.deps.json
+C:\Users\rysya\Desktop\Dapper_12.06_W\Dapper_12.06_W\bin\Debug\net8.0\Dapper_12.06_W.runtimeconfig.json
+C:\Users\rysya\Desktop\Dapper_12.06_W\Dapper_12.06_W\bin\Debug\net8.0\Dapper_12.06_W.dll
+C:\Users\rysya\Desktop\Dapper_12.06_W\Dapper_12.06_W\bin\Debug\net8.0\Dapper_12.06_W.pdb
+C:\Users\rysya\Desktop\Dapper_12.06_W\Dapper_12.06_W\obj\Debug\net8.0\Dapper_12.06_W.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rysya\Desktop\Dapper_12.06_W\Dapper_12.06_W\obj\Debug\net8.0\Dapper_12.06_W.AssemblyInfoInputs.cache
+C:\Users\rysya\Desktop\Dapper_12.06_W\Dapper_12.06_W\obj\Debug\net8.0\Dapper_12.06_W.AssemblyInfo.cs
+C:\Users\rysya\Desktop\Dapper_12.06_W\Dapper_12.06_W\obj\Debug\net8.0\Dapper_12.06_W.csproj.CoreCompileInputs.cache
+C:\Users\rysya\Desktop\Dapper_12.06_W\Dapper_12.06_W\obj\Debug\net8.0\Dapper_12.06_W.dll
+C:\Users\rysya\Desktop\Dapper_12.06_W\Dapper_12.06_W\obj\Debug\net8.0\refint\Dapper_12.06_W.dll
+C:\Users\rysya\Desktop\Dapper_12.06_W\Dapper_12.06_W\obj\Debug\net8.0\Dapper_12.06_W.pdb
+C:\Users\rysya\Desktop\Dapper_12.06_W\Dapper_12.06_W\obj\Debug\net8.0\Dapper_12.06_W.genruntimeconfig.cache
+C:\Users\rysya\Desktop\Dapper_12.06_W\Dapper_12.06_W\obj\Debug\net8.0\ref\Dapper_12.06_W.dll
