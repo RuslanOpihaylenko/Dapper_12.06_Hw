@@ -24,5 +24,18 @@ namespace Dapper_12._06_W.Repositories
                 conn.Execute(query, new { Name = username, CompanyId = companyid });
             }
         }
+
+        //static void ShowAllUsersWCompanies()
+        //{
+        //    using (IDbConnection db = new SqlConnection(connectionString))
+        //    {
+        //        var users = db.Query<User>("SELECT * FROM Users");
+        //        foreach (var user in users)
+        //        {
+        //            var company = db.QueryFirstOrDefault<String>($"select Name\r\nfrom Company\r\nwhere Id = {user.CompanyId}");
+        //            Console.WriteLine($"{user.Id} {user.Name} {company}");
+        //        }
+        //    }
+        //}
     }
 }
